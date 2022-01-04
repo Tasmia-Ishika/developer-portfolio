@@ -54,13 +54,13 @@ h2{
     box-shadow: 10px 10px 40px gold;
 }
 #web-dev-experience{
-    border-left: 7px solid;
+    border-right: 7px solid;
     border-image: linear-gradient(blue, turquoise);
     border-image-slice: 1;
 }
 #full-stack{
-    border-left: 7px solid;
-    border-image: linear-gradient(salmon, tomato );
+    border-right: 7px solid;
+    border-image: linear-gradient(violet, hotpink);
     border-image-slice: 1;
 }
 footer p{
